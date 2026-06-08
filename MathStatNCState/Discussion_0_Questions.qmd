@@ -1,0 +1,59 @@
+---
+title: "Discussion 0 Questions"
+format: pdf
+---
+
+## Quick Questions
+
+
+2d.
+
+- Here we show a large sample distribution for $W$ using the Delta method. What is the idea with the Delta method?
+- What is the usefulness of this result?
+
+2e.
+
+- We show that the sample variance converges in probability to the variance of the population, $1/\lambda^2$. What does this mean?
+- Why is this result useful?
+
+3a. 
+
+- Here we derive the moment generating function of a geometric random variable. What are the uses of knowing the MGF?
+
+3c.
+
+- On the second step of the derivation we are able to make the expected value of the product of exponential functions into the product of the expected values of those functions. Why does independence allow us to do this?
+
+3d. 
+
+- Here we prove a result about $W$ converging in distribution to $X$. What is the idea of converging in distribution?
+
+4a.
+
+- When deriving the expected value of the Beta distribution, it is stated that the integral is the kernel of a Beta distribution, allowing us to know the result. What is going on here? How does this idea work?
+
+4c.
+
+- This question asks you to draw a picture of the PDF corresponding to the probability. Can you describe what that picture looks like? 
+- Why does this make sense in terms of finding a probability?
+
+4d.
+
+- This question asks you to draw a picture of the PDF corresponding to finding a quantile. Can you describe what that picture looks like?
+
+## More Involved Questions
+
+
+1c. 
+
+- When we say 'exact' results here, what does that mean? 
+- Why might it be difficult to derive an exact result?
+- What are the methods or ways discussed to derive an exact result?
+
+
+2c.
+
+- Here we 'standardize' the normal random variable. What does it mean to standardize the variable? 
+- Why would we standardize the variable? What's the purpose of doing that?
+- Why does the standardization work? What methods might we use to show the result?
+

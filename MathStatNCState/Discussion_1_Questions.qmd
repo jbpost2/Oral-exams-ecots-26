@@ -1,0 +1,46 @@
+---
+title: "Discussion 1 Questions"
+format: pdf
+---
+
+## Quick Questions
+
+One of these
+
+- Why can't we say probability when interpreting an observed confidence interval?
+- When we say we are '95% confident' a parameter is captured in an interval. What does this mean?
+
+One of these
+
+- If we're trying to do method of moments estimation and the first raw moment of our distribution is 0, what can we do?
+- If we're trying to do maximum likelihood estimation and our support has a relationship with our parameter, what can we do?
+
+
+## More Involved Questions
+
+One of these
+
+- We've covered the idea of estimation using method of moments. Can you talk about what we are doing with estimation and the concepts behind method of moments?
+
+    + What are some of the good properties of MOM estimators? What are some of the drawbacks?
+    
+- We've covered the idea of estimation using maximum likelihood estimation. Can you talk about what we are doing with estimation and the concepts behind maximum likelihood?
+
+    + What are some of the good properties of MLEs? What are some of the drawbacks?
+
+One of these
+
+- We discussed the idea of using sufficient statistics. What do we mean by a sufficient statistic and why do we care about them? 
+
+    + What is their relationship to our two types of estimation, MOM and ML?
+
+- We discussed properties of estimators. One property was MSE. Why do we like this criteria? 
+
+    - What is its relationship to consistency and why?
+
+One of these
+
+- We looked at the concept of bootstrapping. What is the idea of bootstrapping and what can we use it for?
+
+- We found confidence intervals using pivots. Can you describe what a pivot is and the process we use to create a confidence interval from a pivot?
+

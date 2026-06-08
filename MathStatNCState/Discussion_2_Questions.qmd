@@ -1,0 +1,40 @@
+---
+title: "Discussion 2 Questions"
+format: pdf
+---
+
+## Quick Question 1
+
+- In hypothesis testing, we talked about doing inference using a rejection region or using a p-value. Can you define these two terms: rejection region and p-value?
+
+    + What is the relationship between inference we make using these two methods?
+    + Which do you prefer and why?
+
+
+## More Involved Question 1
+
+- What are the biggest differences between the Frequentist and Bayesian paradigms for doing statistics?
+
+    + What is our inferential goal in the Frequentist/Bayesian paradigm? What might we report for our inference? (reword this a bit)
+
+## Quick Question 2
+
+- Let's stick in the Bayesian world for this question. What is MCMC sampling about? Why do we sometimes need to use this type of method? How do we use the results to actually find a credible interval or posterior mean?
+
+## More Involved Question 2
+
+- When doing hypothesis testing, we have two types of errors: type I and type II. How do these two types of errors play into our usual hypothesis testing setup?
+
+    + How do we deal with type II errors?
+    + What is the idea of statistical significance? What is the relationship with practical significance?
+    
+
+## More Involved Question 3
+
+- This is a tough one. We discussed Wald tests. Describe what a Wald test is.
+
+    + We discussed t-tests as well. When are t-tests used?
+    + Can we use a Wald test anytime we'd do a t-test? Can we use a t-test anytime we'd do a Wald test?
+    
+    
+
